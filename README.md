@@ -1,2 +1,2 @@
 # coursera-test
-test repo for oursera
+test repo for coursera
