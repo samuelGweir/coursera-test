@@ -1,0 +1,1 @@
+This is my solution for the week 2 project for Single Page Web Applications with AngularJS.
